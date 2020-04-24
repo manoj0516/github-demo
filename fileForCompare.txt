@@ -1,3 +1,4 @@
 comparing branches example file added text here
 adding 2nd line for new change
 added 3rd line
+more changes in line 4
