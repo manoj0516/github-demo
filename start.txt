@@ -1,1 +1,2 @@
 Test Git Quick start demo
+Testing branch compare
